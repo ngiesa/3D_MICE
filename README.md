@@ -15,10 +15,10 @@ This implementation also supports **variable-length time series**, where subject
 
 The 3D-MICE method was introduced in:
 
-> **Beaulieu-Jones, Brett K., and Jason H. Moore.**  
-> *Three-dimensional multiple imputation with chained equations for complex incomplete clinical datasets.*  
-> *Bioinformatics* 33.17 (2017): 2733–2739.  
-> [https://doi.org/10.1093/bioinformatics/btx224](https://doi.org/10.1093/bioinformatics/btx224)
+> **Yuan Luo, Peter Szolovits, Anand S Dighe, Jason M Baron**  
+> *3D-MICE: integration of cross-sectional and longitudinal imputation for multi-analyte longitudinal clinical data*  
+> *J Am Med Inform Assoc. 2017 Nov 30;25(6):645–653. doi: 10.1093/jamia/ocx133*
+> (https://pmc.ncbi.nlm.nih.gov/articles/PMC7646951/)
 
 ---
 
