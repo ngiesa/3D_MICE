@@ -5,9 +5,10 @@ a **time-aware multivariate imputation** framework that extends traditional MICE
 - **Features (F)**
 - **Time (T)**
 - **Subjects (N)**
-The algorithm performs imputation **causally** over time, ensuring that values at time `t` are only influenced by observations from **previous or equal time points** for each subject.  
-This implementation also supports **variable-length time series**, where subjects can have different numbers of observations.
-Also, there has not been a Python implementation yet but rather multiple implementations in R. 
+---
+- The algorithm performs imputation **causally** over time, ensuring that values at time `t` are only influenced by observations from **previous or equal time points** for each subject.  
+- This implementation also supports **variable-length time series**, where subjects can have different numbers of observations.
+- Also, there has not been a Python implementation yet but rather multiple implementations in R. 
 ---
 
 ## Reference
